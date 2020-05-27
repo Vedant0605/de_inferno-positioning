@@ -5,6 +5,6 @@ It looks at position of CounterTerrorists (DEFENDERS) and Terrorists (ATTACKERS)
 
 
 
-Find this Dataset on : https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage?select=de_inferno.png
+Find this Dataset on : https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage
 
-Imported from my kaggle notebook at : https://www.kaggle.com/shark0605/inferno-positioning/edit
+Imported from my kaggle notebook at : https://www.kaggle.com/shark0605/inferno-positioning
